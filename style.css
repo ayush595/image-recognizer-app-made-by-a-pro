@@ -1,0 +1,32 @@
+body
+{
+    background-image: linear-gradient(to right bottom, #ffffff, #e5e5ee, #caccdd, #aeb3cd, #919cbd, #7f85a6, #6e6f8f, #5d5978, #4d4156, #382c37, #21191d, #000000);
+}
+#webcamm, #capturedd, #p_name, #p_accuracy
+{
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+}
+#btn_captured, #btn_identify
+{
+    background-image: linear-gradient(to right bottom, #000000, #1f191e, #302d39, #3a4558, #3b6073, #3b6073, #3b6073, #3b6073, #3a4558, #302d39, #1f191e, #000000);
+    color: white;
+    width: 30%;
+    height: 40px;
+    font-size: 22px;
+    padding: 5px;
+}
+b
+{
+    width: 100%;
+}
+#webcam_view, #captured_object
+{
+    border: solid;
+    border-width: 3px;
+    border-color: yellowgreen;
+    border-radius: 20px;
+    width: 350px;
+    height: 299px;
+}
